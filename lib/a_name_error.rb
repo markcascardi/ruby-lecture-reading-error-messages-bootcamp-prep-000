@@ -1,4 +1,4 @@
-"hello world"
+puts "hello world"
 
 def hello_world
 end
